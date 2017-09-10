@@ -1,0 +1,32 @@
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  font-family: Helvetica;
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  /*background-image: url("resources/images/pattern.jpeg"); when i tried to load the image from locall folder its not working*/
+
+}
+
+.item h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#brush{
+  background-color: mediumspringgreen;
+}
+#frames{
+    background-color: lightcoral;
+}
+
+#paint{
+  background-color: skyblue;
+}
+.amount{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
